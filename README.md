@@ -1,4 +1,4 @@
-# OOPS_Banking_System_Project
+PYTHON_OOPS_BANKING_SYSTEM
 A Python-based banking system utilizing Object-Oriented Programming (OOP) concepts.It allows users to:
 
 Login to the system
