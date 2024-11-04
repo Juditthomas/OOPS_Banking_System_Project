@@ -1,10 +1,10 @@
 PYTHON_OOPS_BANKING_SYSTEM
 A Python-based banking system utilizing Object-Oriented Programming (OOP) concepts.It allows users to:
 
-.Login to the system
-.Deposit money into their account
-.Withdraw money from their account
-.Check account balance
+.Login to the system, 
+.Deposit money into their account, 
+.Withdraw money from their account, 
+.Check account balance, 
 OOP Concepts Used: - Class and Objects:
 
 The program is structured using a Account class, which represents a bank account.
